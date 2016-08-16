@@ -1,0 +1,71 @@
+{
+  "name": "amazeui-datatables",
+  "version": "0.0.6",
+  "description": "jQuery DataTables 插件 Amaze UI 集成",
+  "main": "lib/amazeui.datatables.js",
+  "style": "dist/amazeui.datatables.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amazeui/datatables.git"
+  },
+  "keywords": [
+    "amazeui-plugin",
+    "amaze-ui",
+    "AMUI",
+    "datatables",
+    "table",
+    "jquery-plugin"
+  ],
+  "author": {
+    "name": "harvesthq"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amazeui/datatables/issues"
+  },
+  "homepage": "http://amazeui.github.io/datatables/",
+  "licenses": "MIT",
+  "devDependencies": {
+    "amazeui-doc-util": "latest",
+    "amazeui-gulp-tasks": "0.0.7",
+    "datatables": "^1.10.12",
+    "gulp": "^3.9.1",
+    "run-sequence": "^1.2.2"
+  },
+  "dependencies": {
+    "amazeui": "^2.7.0",
+    "jquery": "^2.2.3"
+  },
+  "browserify-shim": {
+    "jquery": "global:jQuery"
+  },
+  "gitHead": "e73118bc160a1e8c5d4fb3a340b3458759d781d1",
+  "_id": "amazeui-datatables@0.0.6",
+  "_shasum": "e67a7e9c31fd906edba939b0c43829ee87437a4d",
+  "_from": "amazeui-datatables@*",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.2.2",
+  "_npmUser": {
+    "name": "minwe",
+    "email": "hegfirose@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "minwe",
+      "email": "hegfirose@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "e67a7e9c31fd906edba939b0c43829ee87437a4d",
+    "tarball": "https://registry.npmjs.org/amazeui-datatables/-/amazeui-datatables-0.0.6.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/amazeui-datatables-0.0.6.tgz_1467775732533_0.3992582275532186"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/amazeui-datatables/-/amazeui-datatables-0.0.6.tgz"
+}
