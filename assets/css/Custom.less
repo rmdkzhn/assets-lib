@@ -1,0 +1,62 @@
+// 2015-12-22 less
+@text-center:center;//文本居中
+@333:#333333;
+@fff:#ffffff;
+@marginauto:0 auto;
+@selectionBackground:#2980b9;
+
+// 
+.header {
+	text-align: @text-center;
+}
+
+.header h1 {
+	font-size: 200%;
+	color: @333;
+	margin-top: 30px;
+}
+
+.header p {
+	font-size: 14px;
+}
+
+a.am-btn-primary:visited,
+.am-badge,a.am-btn-danger:visited,
+a.am-btn-warning:visited,a.am-btn-secondary:visited,
+a.am-btn-success:visited {
+	color:@fff;
+}
+
+.am-panel {
+	width: 75%;
+	margin: @marginauto;
+}
+
+.am-panel-danger {
+	width: 50%;
+	margin: @marginauto;
+}
+
+.am-panel-hd h1 {
+	font-size: 250%;
+}
+
+.statistics{
+	display:none
+}
+
+.Player {
+	background: rgb(52, 73, 94);
+}
+
+.Player svg line {
+	stroke-width: 3;stroke: #34495e;fill: none;-webkit-transition: all .8s ease-in-out;transition: all .8s ease-in-out;
+}
+
+.heimu, .heimu a, a .heimu, .heimu a.new {
+	background-color:@333 !important;
+	color: @333 !important;
+}
+
+::-moz-selection {color:@fff; background:@selectionBackground; text-shadow: none;}
+::selection {color:@fff; background:@selectionBackground; text-shadow: none;}

@@ -1,0 +1,60 @@
+.header {
+  text-align: center;
+}
+.header h1 {
+  font-size: 200%;
+  color: #333333;
+  margin-top: 30px;
+}
+.header p {
+  font-size: 14px;
+}
+a.am-btn-primary:visited,
+.am-badge,
+a.am-btn-danger:visited,
+a.am-btn-warning:visited,
+a.am-btn-secondary:visited,
+a.am-btn-success:visited {
+  color: #ffffff;
+}
+.am-panel {
+  width: 75%;
+  margin: 0 auto;
+}
+.am-panel-danger {
+  width: 50%;
+  margin: 0 auto;
+}
+.am-panel-hd h1 {
+  font-size: 250%;
+}
+.statistics {
+  display: none;
+}
+.Player {
+  background: #34495e;
+}
+.Player svg line {
+  stroke-width: 3;
+  stroke: #34495e;
+  fill: none;
+  -webkit-transition: all 0.8s ease-in-out;
+  transition: all 0.8s ease-in-out;
+}
+.heimu,
+.heimu a,
+a .heimu,
+.heimu a.new {
+  background-color: #333333 !important;
+  color: #333333 !important;
+}
+::-moz-selection {
+  color: #ffffff;
+  background: #2980b9;
+  text-shadow: none;
+}
+::selection {
+  color: #ffffff;
+  background: #2980b9;
+  text-shadow: none;
+}
