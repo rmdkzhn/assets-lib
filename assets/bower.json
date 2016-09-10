@@ -20,6 +20,7 @@
     "bootstrap": "^3.3.7",
     "amazeui": "^2.7.1",
     "normalize-strings": "normalize#^1.1.0",
-    "datatables": "^1.10.12"
+    "datatables": "^1.10.12",
+    "weui": "^0.4.3"
   }
 }

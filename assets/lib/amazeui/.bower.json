@@ -49,15 +49,14 @@
     "handlebars": "latest"
   },
   "license": "MIT",
-  "version": "2.7.1",
-  "_release": "2.7.1",
+  "version": "2.7.2",
+  "_release": "2.7.2",
   "_resolution": {
     "type": "version",
-    "tag": "v2.7.1",
-    "commit": "ce81126526d8e387b8e2f3c79591aa9f718b8053"
+    "tag": "v2.7.2",
+    "commit": "70a35abde86c156d79a8d97e43df8dd6fffa8b01"
   },
   "_source": "https://github.com/allmobilize/amazeui.git",
   "_target": "^2.7.1",
-  "_originalSource": "amazeui",
-  "_direct": true
+  "_originalSource": "amazeui"
 }
