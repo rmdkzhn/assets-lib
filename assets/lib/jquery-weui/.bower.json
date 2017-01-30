@@ -1,14 +1,13 @@
 {
   "name": "jquery-weui",
   "homepage": "https://github.com/lihongxun945/jquery-weui",
-  "_release": "a372359434",
+  "_release": "a3c1bb3b09",
   "_resolution": {
     "type": "branch",
     "branch": "build",
-    "commit": "a372359434d7badc99eef7ac832655116c60d2a0"
+    "commit": "a3c1bb3b09ebe6caedeb05ae3dcda5c07f7ceea1"
   },
   "_source": "https://github.com/lihongxun945/jquery-weui.git",
   "_target": "build",
-  "_originalSource": "jquery-weui",
-  "_direct": true
+  "_originalSource": "jquery-weui"
 }
