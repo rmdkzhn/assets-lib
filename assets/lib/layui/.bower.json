@@ -1,0 +1,29 @@
+{
+  "name": "layui",
+  "main": "src/layui.js",
+  "version": "1.0.7",
+  "homepage": "https://github.com/sentsin/layui",
+  "authors": [
+    "sentsin <xu@sentsin.com>"
+  ],
+  "description": "模块化前端UI框架",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "layui",
+    "ui"
+  ],
+  "license": "LGPL",
+  "_release": "1.0.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.7",
+    "commit": "7a2e9467dedfd29b8bf555c29e6dfd86b5c779a7"
+  },
+  "_source": "https://github.com/sentsin/layui.git",
+  "_target": "^1.0.7",
+  "_originalSource": "https://github.com/sentsin/layui.git",
+  "_direct": true
+}
