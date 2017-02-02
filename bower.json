@@ -23,6 +23,7 @@
     "datatables": "^1.10.12",
     "weui": "^0.4.3",
     "material-design-lite": "^1.3.0",
-    "mdui": "^0.1.2"
+    "mdui": "^0.1.2",
+    "normalize-css": "^5.0.0"
   }
 }
