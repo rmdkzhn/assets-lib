@@ -5,5 +5,5 @@
 LICENSE
 
 #忽略bower配置文件
-#/.bowerrc
-#/bower.json
+.bowerrc
+bower.json
