@@ -1,0 +1,25 @@
+{
+  "name": "web_assets",
+  "description": "WorkingSuck Assets lib",
+  "main": "",
+  "authors": [
+    "eeeeeee"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "weui": "^0.4.3",
+    "normalize-css": "^5.0.0",
+    "bootsteam-theme": "https://github.com/StrutTower/bootsteam-theme.git#^1.0.2",
+    "lazysizes": "^3.0.0",
+    "semantic": "^2.2.10"
+  }
+}

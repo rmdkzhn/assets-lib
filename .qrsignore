@@ -1,0 +1,9 @@
+# 忽略目录dir下的所有文件
+.git/
+
+#忽略授权说明
+LICENSE
+
+#忽略bower配置文件
+#/.bowerrc
+#/bower.json
